@@ -1,0 +1,47 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.menu	{
+	position: fixed;
+	width: 100%;
+	top: 0;
+	background-color: black;
+	padding: 10px;
+	text-align: center;
+}
+
+.text {
+	text-align: justify;
+	text-indent: 20px;
+	padding: 50px 10px 10px 10px;
+}
+
+.titles a {
+	text-decoration: none;
+	text-transform: uppercase;
+	color: white;
+	transition: 0.5s;
+}
+
+.titles a:hover {
+	color: green;
+	text-decoration: underline;
+}
+
+.titles li {
+	color: white;
+	vertical-align: middle;
+	font-size: 24px;
+	display: inline-block;
+	margin-right: 100px;
+}
+
+.titles li:last-child {
+	margin-right: 0;
+}
