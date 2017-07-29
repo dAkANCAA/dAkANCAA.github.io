@@ -3,4 +3,4 @@
 # Алексей Зозуля
 Мои домашние задания
 
-[Урок 12](https://dakancaa.github.io/Lesson_12/ "")
+[Урок 12](https://dakancaa.github.io/Lesson_12/ "") - Работа с репозиторием на GitHub
